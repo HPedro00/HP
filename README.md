@@ -2,7 +2,7 @@
 
 -meu nome é Pedro Henrique
 
--estou na alura
+-estou estudando na [alura](https://www.alura.com)
 -EStou me desenvolvendo na linguagem JaviScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projeo desenvolvido
 
